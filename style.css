@@ -19,7 +19,8 @@ body{
 
 .calculadora{
 
-    background:white;
+    background: linear-gradient(225deg, #8fd3d7 0.000%, #69c3e5 20.000%, #49b0e2 40.000%, #2e9cd0 60.000%, #1a89be 80.000%, #0d7ab9 100.000%);
+
     padding:30px;
 
     width:350px;
